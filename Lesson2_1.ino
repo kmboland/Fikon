@@ -18,3 +18,5 @@ digitalWrite(redLED,LOW);
 delay(offTime);
 
 }
+
+//have class plug in a second LED into the breadboard and look at the result. Ask what do they think will happen?
