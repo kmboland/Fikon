@@ -12,4 +12,5 @@ pinMode(redLED, OUTPUT);
 void loop() {
   // put your main code here, to run repeatedly:
 digitalWrite(redLED,LOW);
+ //change to HIGH to turn the light on. 
 }
