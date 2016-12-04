@@ -1,5 +1,6 @@
 int LEDPin=13;
-int waitTime=1000;
+int waitTime=250;
+//Can switch the waitTime to 250 for quick blink.
 
 void setup() {
   // put your setup code here, to run once:
